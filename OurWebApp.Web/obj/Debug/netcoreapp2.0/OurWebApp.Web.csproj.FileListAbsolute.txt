@@ -1,0 +1,13 @@
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.deps.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.dev.json
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.pdb
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Dates.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Dates.pdb
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csprojResolveAssemblyReference.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csproj.CoreCompileInputs.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfoInputs.cache
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfo.cs
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Code\AzureDeploy\vsts\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.pdb
