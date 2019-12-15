@@ -5778,11 +5778,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vsts\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj",
+      "projectUniqueName": "D:\\vsts1\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj",
       "projectName": "OurWebApp.Dates.Tests",
-      "projectPath": "D:\\vsts\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj",
+      "projectPath": "D:\\vsts1\\OurWebApp.Tests\\OurWebApp.Dates.Tests.csproj",
       "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
-      "outputPath": "D:\\vsts\\OurWebApp.Tests\\obj\\",
+      "outputPath": "D:\\vsts1\\OurWebApp.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5801,8 +5801,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
-              "projectPath": "D:\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj"
+            "D:\\vsts1\\OurWebApp.Dates\\OurWebApp.Dates.csproj": {
+              "projectPath": "D:\\vsts1\\OurWebApp.Dates\\OurWebApp.Dates.csproj"
             }
           }
         }

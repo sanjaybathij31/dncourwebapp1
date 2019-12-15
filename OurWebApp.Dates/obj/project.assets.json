@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
+      "projectUniqueName": "D:\\vsts1\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
       "projectName": "OurWebApp.Dates",
-      "projectPath": "D:\\vsts\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
+      "projectPath": "D:\\vsts1\\OurWebApp.Dates\\OurWebApp.Dates.csproj",
       "packagesPath": "C:\\Users\\Suraj\\.nuget\\packages\\",
-      "outputPath": "D:\\vsts\\OurWebApp.Dates\\obj\\",
+      "outputPath": "D:\\vsts1\\OurWebApp.Dates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
